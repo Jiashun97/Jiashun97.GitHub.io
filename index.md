@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 王佳顺(Jiashun Wang)
 
-You can use the [editor on GitHub](https://github.com/Jiashun97/Jiashun97.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Background
+Welcome to my personal website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a fast-track PhD student in computational neuroscience at GSN-LMU and I am currently in the preparatory year prior to my PhD phase.
 
-### Markdown
+Before my fast-track PhD program at GSN-LMU, I obtained my bachelor's degree in psychology at the University of Amsterdam after my transferring from Beijing Normal University. During my undergraduate period, I completed a research project where I was trying to decode visual experience from EEG data using MVPA and comparing the performance of two preprocessing methods (high-pass filtering and detrending). In another internship, I investigated the Bayesian model comparison method and showed the intransitivity in the Leave-One-Out Cross-Validation (LOO-CV) method.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Interests
+I joined the lab in September 2020 as a research intern to work on a collaborative project with Prof. Radoslaw Martin Cichy and Prof. Gemma Roig.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jiashun97/Jiashun97.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My research interest lies in how machine learning can help understand visual processing. Specifically, I am comparing the performance of different machine learning models in predicting brain data (e.g. EEG, MEG, and fMRI).
